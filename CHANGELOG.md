@@ -4,6 +4,7 @@
 - Introduction to CSS (Scrimba)
   - CSS Selectors, Properties & Values
   - CSS Classes & IDs
+  - Specificity in CSS
 - An example was modified to demonstrate another example of selectors.
 - An example of IDs was added.
 
