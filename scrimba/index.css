@@ -9,3 +9,8 @@
 section p {
     padding: 10px;
 }
+
+#inline {
+    border: 5px solid #02C3BD;
+    padding: 10px;
+}

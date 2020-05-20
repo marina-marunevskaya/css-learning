@@ -3,7 +3,9 @@
 ## May 20, 2020
 - Introduction to CSS (Scrimba)
   - CSS Selectors, Properties & Values
+  - CSS Classes & IDs
 - An example was modified to demonstrate another example of selectors.
+- An example of IDs was added.
 
 ## May 19, 2020
 - The repository was created.
