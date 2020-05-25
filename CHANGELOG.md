@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 25, 2020
+- Introduction to CSS (Scrimba)
+  - Setting Widths & Heights in CSS
+- An example of setting height and width of inline and block elements was added.
+
 ## May 20, 2020
 - Introduction to CSS (Scrimba)
   - CSS Selectors, Properties & Values

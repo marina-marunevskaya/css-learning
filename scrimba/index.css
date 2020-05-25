@@ -14,3 +14,14 @@ section p {
     border: 5px solid #02C3BD;
     padding: 10px;
 }
+
+.inline-element {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+.block-element {
+    height: 150px;
+    width: 150px;
+}
