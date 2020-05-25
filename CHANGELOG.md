@@ -3,7 +3,9 @@
 ## May 25, 2020
 - Introduction to CSS (Scrimba)
   - Setting Widths & Heights in CSS
+  - Length Units in CSS
 - An example of setting height and width of inline and block elements was added.
+- An example with length units was added.
 
 ## May 20, 2020
 - Introduction to CSS (Scrimba)
