@@ -4,8 +4,10 @@
 - Introduction to CSS (Scrimba)
   - Setting Widths & Heights in CSS
   - Length Units in CSS
+  - Colors and color types in CSS
 - An example of setting height and width of inline and block elements was added.
 - An example with length units was added.
+- An example with different ways of adding colors was added.
 
 ## May 20, 2020
 - Introduction to CSS (Scrimba)
