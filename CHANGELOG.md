@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 26, 2020
+- Introduction to CSS (Scrimba)
+  - CSS Borders
+- An example with borders was added.
+
 ## May 25, 2020
 - Introduction to CSS (Scrimba)
   - Setting Widths & Heights in CSS
