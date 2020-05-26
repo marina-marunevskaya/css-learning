@@ -3,6 +3,7 @@
 ## May 26, 2020
 - Introduction to CSS (Scrimba)
   - CSS Borders
+  - Learn CSS Margins
 - An example with borders was added.
 
 ## May 25, 2020
