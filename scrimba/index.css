@@ -51,3 +51,19 @@ section p {
     margin: 10px;
     padding: 10px;
 }
+
+.box-model-content {
+    border: 5px dashed #000000;
+    box-sizing: content-box;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+}
+
+.box-model-border {
+    border: 5px dashed #000000;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+}

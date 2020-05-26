@@ -4,7 +4,9 @@
 - Introduction to CSS (Scrimba)
   - CSS Borders
   - Learn CSS Margins
+  - The Box Model in CSS
 - An example with borders was added.
+- An example with box model was added.
 
 ## May 25, 2020
 - Introduction to CSS (Scrimba)
