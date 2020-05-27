@@ -67,3 +67,15 @@ section p {
     padding: 10px;
     width: 150px;
 }
+
+.visibility-display {
+    display: none;
+}
+
+.visibility-visibility {
+    visibility: hidden;
+}
+
+.visibility-opacity {
+    opacity: 0;
+}
