@@ -3,7 +3,9 @@
 ## May 27, 2020
 - Introduction to CSS (Scrimba)
   - Visibility in CSS
+  - Working with Fonts in CSS
 - An example to show ways of making an element invisible was added.
+- An example with fonts was added.
 
 ## May 26, 2020
 - Introduction to CSS (Scrimba)

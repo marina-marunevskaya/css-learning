@@ -79,3 +79,14 @@ section p {
 .visibility-opacity {
     opacity: 0;
 }
+
+.font-combination {
+    font-family: monospace, sans-serif;
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.font-shortcut {
+    font: italic 500 1.3rem monospace, sans-serif;
+}
