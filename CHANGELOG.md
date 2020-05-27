@@ -4,8 +4,10 @@
 - Introduction to CSS (Scrimba)
   - Visibility in CSS
   - Working with Fonts in CSS
+  - Element Flow in HTML and CSS
 - An example to show ways of making an element invisible was added.
 - An example with fonts was added.
+- An example to demonstrate elements flow was added.
 
 ## May 26, 2020
 - Introduction to CSS (Scrimba)
