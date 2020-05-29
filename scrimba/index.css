@@ -142,3 +142,24 @@ section p {
     padding: 10px;
     width: 80%;
 }
+
+#header {
+    height: 50px;
+}
+
+#content {
+    float: left;
+    height: 400px;
+    width: 75%;
+}
+
+#navigation {
+    float: right;
+    height: 400px;
+    width: 25%;
+}
+
+#footer {
+    clear: both;
+    height: 50px;
+}

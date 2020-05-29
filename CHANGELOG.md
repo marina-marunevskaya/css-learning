@@ -3,7 +3,9 @@
 ## May 29, 2020
 - Introduction to CSS (Scrimba)
   - CSS Float & Clear
+  - CSS Float Layout Challenge
 - An example with float and clear was added.
+- Another example with float and clear was added.
 
 ## May 27, 2020
 - Introduction to CSS (Scrimba)
