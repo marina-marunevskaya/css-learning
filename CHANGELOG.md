@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 29, 2020
+- Introduction to CSS (Scrimba)
+  - CSS Float & Clear
+- An example with float and clear was added.
+
 ## May 27, 2020
 - Introduction to CSS (Scrimba)
   - Visibility in CSS

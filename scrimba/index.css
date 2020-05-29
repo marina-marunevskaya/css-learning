@@ -90,3 +90,55 @@ section p {
 .font-shortcut {
     font: italic 500 1.3rem monospace, sans-serif;
 }
+
+.float {
+    background-color: #B5C2E3;
+    padding: 10px;
+}
+
+.float::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.menu {
+    border: 1px solid black;
+    box-sizing: border-box;
+    float: left;
+    height: 500px;
+    padding: 10px;
+    width: 20%;
+}
+
+.header {
+    border: 1px solid black;
+    border-left-width: 0;
+    box-sizing: border-box;
+    float: right;
+    height: 50px;
+    padding: 10px;
+    width: 80%;
+}
+
+.content {
+    border: 1px solid black;
+    border-left-width: 0;
+    border-top-width: 0;
+    box-sizing: border-box;
+    float: right;
+    height: 400px;
+    padding: 10px;
+    width: 80%;
+}
+
+.footer {
+    border: 1px solid black;
+    border-left-width: 0;
+    border-top-width: 0;
+    box-sizing: border-box;
+    float: right;
+    height: 50px;
+    padding: 10px;
+    width: 80%;
+}
