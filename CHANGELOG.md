@@ -4,6 +4,7 @@
 - Introduction to CSS (Scrimba)
   - Position Property in CSS
   - CSS Pseudo Classes / Elements
+  - What's Next?
 - An example with the position property was added.
 - An example with pseudo classes and elements was added.
 
