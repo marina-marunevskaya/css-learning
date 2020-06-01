@@ -3,7 +3,9 @@
 ## June 1, 2020
 - Introduction to CSS (Scrimba)
   - Position Property in CSS
+  - CSS Pseudo Classes / Elements
 - An example with the position property was added.
+- An example with pseudo classes and elements was added.
 
 ## May 29, 2020
 - Introduction to CSS (Scrimba)

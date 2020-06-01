@@ -196,3 +196,12 @@ section p {
     position: fixed;
     width: 100%;
 }
+
+.pseudo:hover {
+    background-color: peru;
+    padding: 20px;
+}
+
+.pseudo:hover::after, .pseudo:hover::before {
+    content: '~';
+}
