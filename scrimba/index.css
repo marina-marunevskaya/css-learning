@@ -1,3 +1,11 @@
+body {
+    margin: 0;
+}
+
+section {
+    padding: 10px;
+}
+
 .external--header {
     background-color: #AFF9EB;
 }
@@ -162,4 +170,29 @@ section p {
 #footer {
     clear: both;
     height: 50px;
+}
+
+.main {
+    margin-bottom: 60px;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.bookmark {
+    background-color: beige;
+    height: 70px;
+    position: absolute;
+    right: 10px;
+    top: 0;
+    width: 30px;
+}
+
+.position-fixed {
+    background-color: peachpuff;
+    bottom: 0;
+    height: 50px;
+    position: fixed;
+    width: 100%;
 }

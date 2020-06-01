@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## June 1, 2020
+- Introduction to CSS (Scrimba)
+  - Position Property in CSS
+- An example with the position property was added.
+
 ## May 29, 2020
 - Introduction to CSS (Scrimba)
   - CSS Float & Clear
