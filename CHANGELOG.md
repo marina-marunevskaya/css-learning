@@ -4,6 +4,7 @@
 - An example based on the video CSS Crash Course For Absolute Beginners (Traversy Media) was added.
 - The example was validated with HTML5 and CSS validators.
 - Validation errors were fixed.
+- A branch gh-pages was created to set up GitHub Pages.
 
 ## June 1, 2020
 - Introduction to CSS (Scrimba)
