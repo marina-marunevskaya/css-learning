@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## June 7, 2020
+- Wiki pages were added to the repository.
+
 ## June 5, 2020
 - An example based on the video CSS Crash Course For Absolute Beginners (Traversy Media) was added.
 - The example was validated with HTML5 and CSS validators.
